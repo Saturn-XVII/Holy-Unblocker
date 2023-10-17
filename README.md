@@ -36,4 +36,4 @@ Additional information can be found on the [wiki](https://github.com/holy-unbloc
 
 If you need help deploying, open a ticket in our [Discord server](https://discord.gg/gvenmHBZsQ).
 
-Hello! this is <a target="_blank" href="https://urbigmumz.com">Urbigmumz</a> or <a target="_blank" href="https://github.com/Saturn-XVII">Pandora</a> i added ```vercel.json``` so <a target="_blank" href="https://vercel.com">vercel.com</a>
+Hello! this is <a target="_blank" href="https://urbigmumz.com">Urbigmumz</a> or <a target="_blank" href="https://github.com/Saturn-XVII">Pandora</a> i added ```vercel.json``` so <a target="_blank" href="https://vercel.com">vercel.com</a> can be used on this.
